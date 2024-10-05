@@ -12,4 +12,4 @@ arr3 = [10,20,30,40];
 
 console.log(arr1[0]);
 console.log(arr2[0]);
-console.log(arr3[0]);
+console.log(arr3[0]);   // end
