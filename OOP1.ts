@@ -1,8 +1,8 @@
 function Addition(no1 : number, no2 : number) : number
 {
-    var ans : number = 0;
+    var ans : number  = 0;
     ans = no1 + no2;
-    return ans;
+    return ans; 
 }
 
 function Substraction(no1 : number, no2 : number) : number
