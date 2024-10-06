@@ -10,7 +10,7 @@ class Demo
     {
         console.log("inside default constructor");
         this.no1 = 0;
-        this.no2 = 0;
+        this.no2 =  0;
     }
     // behaviour
     display()
